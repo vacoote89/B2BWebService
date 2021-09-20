@@ -127,7 +127,7 @@ In the new model packagage, recreate the classes we made previously:
 - InvoiceItem
 - Invoice
 
-*Don't forget to include all the getters, setters, and constructors.**
+*Don't forget to include all the getters, setters, and constructors.*
 
 ## Web Service
 
